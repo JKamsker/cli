@@ -1,4 +1,4 @@
-# hcloud: Command-line interface for Hetzner Cloud
+ # hcloud: Command-line interface for Hetzner Cloud
 
 [![Build status](https://travis-ci.org/hetznercloud/cli.svg?branch=master)](https://travis-ci.org/hetznercloud/cli)
 
